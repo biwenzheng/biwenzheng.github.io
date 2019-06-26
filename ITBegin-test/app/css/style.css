@@ -1,0 +1,23 @@
+.trade-name{
+  color: blue;
+}
+.price{
+  color:red;
+}
+.description{
+  color: dodgerblue;
+  /* font-size: 12px; */
+}
+.copyright{
+  color:#fff;
+  margin: auto 0;
+  line-height: 50px;
+}
+.navbar{
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+p{
+  font-size:12px;
+}
